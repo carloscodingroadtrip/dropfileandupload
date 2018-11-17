@@ -28,7 +28,7 @@ export default class Basic extends Component {
             onFileDialogCancel={this.onCancel.bind(this)}
           >
             <p>
-              Try dropping some files here, or click to select files to upload.
+              Drop some files here, or click to select files to upload.
             </p>
           </Dropzone>
         </div>
